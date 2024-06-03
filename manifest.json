@@ -1,0 +1,33 @@
+{
+    "name": "Welcome to PWA Gallery",
+    "short_name": "PWA Gallery",
+    "icons": [{
+      "src": "images/logo-60.png",
+        "sizes": "60x60",
+        "type": "image/png",
+        "purpose": "any maskable"
+        
+      }, {
+        "src": "images/logo-90.png",
+        "sizes": "90x90",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }, {
+        "src": "images/logo-100.png",
+        "sizes": "100x100",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+      , {
+        "src": "images/logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
+  
